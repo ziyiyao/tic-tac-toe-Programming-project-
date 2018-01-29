@@ -1,0 +1,7 @@
+Test Num,Description of Test,Test data,Expected outcome
+1,Grid must be created first in a 2D array,Characters,3x3 grid 
+2,Receive a message when the player wins,String ,“WIN”
+3,Receive a message when the player loses,String ,“LOST”
+4,Ask the user if they want to continue or not,String ,“Would you like to play again ?”
+5,Receive a message when the user place their Os or Xs down in somewhere it is already been taken,String ,“Location already been taken”
+6,Board must be 3x3 ,Characters,3x3 grid, 2 horizontal lines  and 2 vertical lines
